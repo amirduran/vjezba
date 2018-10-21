@@ -1,0 +1,50 @@
+body {
+    font-size: 12px;
+    color: gray;
+}
+h1 {
+    color: #0061af;
+    font-style: italic;
+    font-size: 31px;
+}
+h1:hover {
+    color: #529dda;
+}
+
+.red {
+    color: red;
+}
+.txt15 {
+    font-size: 15px;
+}
+
+.btn {
+    font-size: 13px;
+    color: #0061af;
+    background: white;
+    border: 1px solid;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+.btn-red {
+    color: red;
+    border: 1px solid red;
+}
+.btn-green {
+    color: green;
+    border: 1px solid green;
+}
+
+.comment .created {
+    color: gray;
+    font-size: 10px;
+}
+
+.comment .comment-content p {
+    margin-top: 30px;
+}
+
+.comment .created {
+    margin-top: 5px;
+}
